@@ -10,6 +10,17 @@ The project combines **high-throughput molecular docking, Fragment-Based Drug Di
 
 ---
 
+# Authors
+
+**FRAG-ML — Fragment-Rescored Affinity Grid with Machine Learning**
+
+Developed as a computational drug-repurposing project focused on *Mycobacterium leprae* ML2177c.
+
+Contributions by 
+Shreyas Nigam (shreyasnigam01)
+Kunsh Billa (JinxedHuracan) 
+---
+
 ## Why FRAG-ML?
 
 Conventional virtual screening often ranks compounds primarily according to their docking score.
@@ -330,16 +341,6 @@ Potential extensions include:
 * Fragment optimization of high-Ligand-Efficiency scaffolds
 * ADMET prediction using additional validated models
 
----
-
-# Authors
-
-**FRAG-ML — Fragment-Rescored Affinity Grid with Machine Learning**
-
-Developed as a computational drug-repurposing project focused on *Mycobacterium leprae* ML2177c.
-
-Shreyas Nigam 
-Kunsh Billa 
 
 ---
 
