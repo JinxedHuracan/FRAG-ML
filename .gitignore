@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Molecular docking binaries & archives
+*.exe
+*.zip
+*.gz
+
+# Schrödinger / Maestro project folders & internal logs
+*.prj/
+*.log
+
+# Redundant or bulky intermediate structures (optional, remove if needed remotely)
+*.sdf/
