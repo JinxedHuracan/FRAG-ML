@@ -1,0 +1,39 @@
+REMARK SMILES CCC(Cc1c(I)cc(I)c(N)c1I)C(=O)O
+REMARK SMILES IDX 3 1 2 2 1 3 4 4 5 5 13 6 6 7 11 8 8 9 9 10 14 11 7 12 10 13
+REMARK SMILES IDX 12 14 15 17 16 18 17 19
+REMARK H PARENT 12 15 12 16 17 20
+ROOT
+ATOM      1  C   UNL     1       1.775   0.171  -0.786  1.00  0.00     0.103 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1       2.294  -0.507   0.491  1.00  0.00     0.012 C 
+ATOM      3  C   UNL     1       3.547   0.155   1.056  1.00  0.00     0.005 C 
+ENDBRANCH   1   2
+BRANCH   1   4
+ATOM      4  C   UNL     1       0.618  -0.573  -1.502  1.00  0.00     0.053 C 
+BRANCH   4   5
+ATOM      5  C   UNL     1      -0.717  -0.697  -0.778  1.00  0.00    -0.018 A 
+ATOM      6  C   UNL     1      -1.743   0.287  -0.904  1.00  0.00     0.041 A 
+ATOM      7  C   UNL     1      -1.008  -1.800   0.058  1.00  0.00     0.018 A 
+ATOM      8  C   UNL     1      -2.928   0.262  -0.117  1.00  0.00     0.059 A 
+ATOM      9  C   UNL     1      -2.191  -1.862   0.807  1.00  0.00     0.032 A 
+ATOM     10  C   UNL     1      -3.133  -0.840   0.724  1.00  0.00     0.038 A 
+ATOM     11  I   UNL     1      -1.627   1.858  -2.387  1.00  0.00    -0.042 I 
+ATOM     12  I   UNL     1       0.179  -3.550   0.202  1.00  0.00    -0.044 I 
+ATOM     13  I   UNL     1      -4.875  -1.036   1.889  1.00  0.00    -0.042 I 
+BRANCH   8  14
+ATOM     14  N   UNL     1      -3.970   1.191  -0.330  1.00  0.00    -0.397 N 
+ATOM     15  H   UNL     1      -3.651   2.083  -0.697  1.00  0.00     0.156 HD
+ATOM     16  H   UNL     1      -4.604   1.281   0.460  1.00  0.00     0.156 HD
+ENDBRANCH   8  14
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+BRANCH   1  17
+ATOM     17  C   UNL     1       1.470   1.633  -0.561  1.00  0.00     0.306 C 
+ATOM     18  O   UNL     1       1.810   2.548  -1.294  1.00  0.00    -0.252 OA
+BRANCH  17  19
+ATOM     19  O   UNL     1       0.755   1.884   0.550  1.00  0.00    -0.481 OA
+ATOM     20  H   UNL     1       0.640   2.858   0.542  1.00  0.00     0.296 HD
+ENDBRANCH  17  19
+ENDBRANCH   1  17
+TORSDOF 6

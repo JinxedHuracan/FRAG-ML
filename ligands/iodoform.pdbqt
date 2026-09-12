@@ -1,0 +1,10 @@
+REMARK SMILES IC(I)I
+REMARK SMILES IDX 1 1 2 2 3 3 4 4
+REMARK H PARENT
+ROOT
+ATOM      1  I   UNL     1       1.965  -0.230  -0.478  1.00  0.00    -0.059 I 
+ATOM      2  C   UNL     1      -0.006   0.003   0.243  1.00  0.00     0.178 C 
+ATOM      3  I   UNL     1      -0.769   1.798  -0.564  1.00  0.00    -0.059 I 
+ATOM      4  I   UNL     1      -1.158  -1.585  -0.538  1.00  0.00    -0.059 I 
+ENDROOT
+TORSDOF 0

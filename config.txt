@@ -1,0 +1,14 @@
+receptor = ml2177c_receptor.pdbqt
+ligand = anu_D_only_2.pdbqt
+
+center_x = -8.896
+center_y = 0.493
+center_z = 4.775
+
+size_x = 20.0
+size_y = 20.0
+size_z = 20.0
+
+exhaustiveness = 16
+num_modes = 9
+out = vina_anu_docked.pdbqt

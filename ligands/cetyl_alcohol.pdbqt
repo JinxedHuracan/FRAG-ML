@@ -1,0 +1,55 @@
+REMARK SMILES CCCCCCCCCCCCCCCCO
+REMARK SMILES IDX 9 1 8 2 7 3 6 4 5 5 4 6 3 7 2 8 1 9 10 10 11 11 12 12 13 13
+REMARK SMILES IDX 14 14 15 15 16 16 17 17
+REMARK H PARENT 17 18
+ROOT
+ATOM      1  C   UNL     1       0.214   0.039   0.837  1.00  0.00     0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1      -0.306  -1.000   1.834  1.00  0.00    -0.000 C 
+BRANCH   2   3
+ATOM      3  C   UNL     1      -1.581  -1.708   1.367  1.00  0.00    -0.000 C 
+BRANCH   3   4
+ATOM      4  C   UNL     1      -2.792  -0.777   1.265  1.00  0.00    -0.000 C 
+BRANCH   4   5
+ATOM      5  C   UNL     1      -4.057  -1.555   0.897  1.00  0.00    -0.000 C 
+BRANCH   5   6
+ATOM      6  C   UNL     1      -5.323  -0.693   0.886  1.00  0.00    -0.000 C 
+BRANCH   6   7
+ATOM      7  C   UNL     1      -5.317   0.492  -0.085  1.00  0.00    -0.000 C 
+BRANCH   7   8
+ATOM      8  C   UNL     1      -5.130   0.081  -1.546  1.00  0.00    -0.003 C 
+ATOM      9  C   UNL     1      -5.246   1.278  -2.477  1.00  0.00     0.004 C 
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  10
+ATOM     10  C   UNL     1       1.554   0.621   1.295  1.00  0.00     0.000 C 
+BRANCH  10  11
+ATOM     11  C   UNL     1       2.068   1.747   0.393  1.00  0.00     0.000 C 
+BRANCH  11  12
+ATOM     12  C   UNL     1       2.317   1.365  -1.070  1.00  0.00     0.000 C 
+BRANCH  12  13
+ATOM     13  C   UNL     1       3.273   0.190  -1.298  1.00  0.00     0.000 C 
+BRANCH  13  14
+ATOM     14  C   UNL     1       4.679   0.434  -0.743  1.00  0.00     0.002 C 
+BRANCH  14  15
+ATOM     15  C   UNL     1       5.618  -0.725  -1.093  1.00  0.00     0.028 C 
+BRANCH  15  16
+ATOM     16  C   UNL     1       7.008  -0.559  -0.489  1.00  0.00     0.156 C 
+BRANCH  16  17
+ATOM     17  O   UNL     1       7.684   0.553  -1.059  1.00  0.00    -0.396 OA
+ATOM     18  H   UNL     1       7.249   1.360  -0.737  1.00  0.00     0.210 HD
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   1  10
+TORSDOF 15

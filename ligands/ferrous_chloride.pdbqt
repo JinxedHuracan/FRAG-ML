@@ -1,0 +1,9 @@
+REMARK SMILES [Cl][Fe][Cl]
+REMARK SMILES IDX 1 1 2 2 3 3
+REMARK H PARENT
+ROOT
+ATOM      1  Cl  UNL     1      -1.410   0.084   0.000  1.00  0.00    -0.147 Cl
+ATOM      2  Fe  UNL     1      -0.116  -0.308   0.000  1.00  0.00     0.293 Fe
+ATOM      3  Cl  UNL     1       1.526  -0.913   0.000  1.00  0.00    -0.147 Cl
+ENDROOT
+TORSDOF 0

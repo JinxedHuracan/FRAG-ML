@@ -1,0 +1,42 @@
+REMARK SMILES OCCN1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1CO
+REMARK SMILES IDX 4 1 5 2 6 3 8 4 10 5 12 6 3 7 2 8 1 9 13 11 14 12 7 14 11 16
+REMARK SMILES IDX 9 18
+REMARK H PARENT 1 10 14 13 7 15 11 17 9 19
+ROOT
+ATOM      1  N   UNL     1       0.690  -0.006   0.078  1.00  0.00    -0.291 NA
+ATOM      2  C   UNL     1       0.167  -1.227  -0.549  1.00  0.00     0.119 C 
+ATOM      3  C   UNL     1      -1.106  -1.742   0.136  1.00  0.00     0.159 C 
+ATOM      4  C   UNL     1      -2.167  -0.649   0.172  1.00  0.00     0.174 C 
+ATOM      5  C   UNL     1      -1.619   0.624   0.815  1.00  0.00     0.165 C 
+ATOM      6  C   UNL     1      -0.326   1.093   0.102  1.00  0.00     0.114 C 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C   UNL     1       1.976   0.433  -0.516  1.00  0.00     0.113 C 
+BRANCH   7   8
+ATOM      8  C   UNL     1       3.084  -0.630  -0.671  1.00  0.00     0.171 C 
+BRANCH   8   9
+ATOM      9  O   UNL     1       3.387  -1.247   0.575  1.00  0.00    -0.395 OA
+ATOM     10  H   UNL     1       4.110  -1.877   0.417  1.00  0.00     0.210 HD
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+BRANCH   6  11
+ATOM     11  C   UNL     1       0.172   2.395   0.792  1.00  0.00     0.178 C 
+BRANCH  11  12
+ATOM     12  O   UNL     1       0.942   3.199  -0.108  1.00  0.00    -0.395 OA
+ATOM     13  H   UNL     1       0.313   3.576  -0.748  1.00  0.00     0.210 HD
+ENDBRANCH  11  12
+ENDBRANCH   6  11
+BRANCH   3  14
+ATOM     14  O   UNL     1      -1.648  -2.881  -0.550  1.00  0.00    -0.389 OA
+ATOM     15  H   UNL     1      -1.722  -2.660  -1.495  1.00  0.00     0.211 HD
+ENDBRANCH   3  14
+BRANCH   5  16
+ATOM     16  O   UNL     1      -2.643   1.628   0.720  1.00  0.00    -0.389 OA
+ATOM     17  H   UNL     1      -3.452   1.188   1.056  1.00  0.00     0.211 HD
+ENDBRANCH   5  16
+BRANCH   4  18
+ATOM     18  O   UNL     1      -3.320  -1.089   0.911  1.00  0.00    -0.388 OA
+ATOM     19  H   UNL     1      -3.422  -2.039   0.698  1.00  0.00     0.211 HD
+ENDBRANCH   4  18
+TORSDOF 8

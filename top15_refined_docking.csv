@@ -1,0 +1,16 @@
+Rank,Drug_Name,Screening_Score_kcal_mol,Refined_Score_kcal_mol,Refined_Pose_File,Final_Rank
+1,midostaurin,-10.123,-10.14,C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\3\redock_top15_results\midostaurin_refined.pdbqt,1
+2,tucatinib,-9.665,-9.741,C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\3\redock_top15_results\tucatinib_refined.pdbqt,2
+3,capmatinib,-9.642,-9.668,C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\3\redock_top15_results\capmatinib_refined.pdbqt,3
+4,bagrosin,-9.545,-9.544,C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\3\redock_top15_results\bagrosin_refined.pdbqt,4
+5,nafamostat,-9.191,-9.203,C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\3\redock_top15_results\nafamostat_refined.pdbqt,5
+6,cefalexin,-9.105,-9.122,C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\3\redock_top15_results\cefalexin_refined.pdbqt,6
+7,selinexor,-9.084,-9.079,C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\3\redock_top15_results\selinexor_refined.pdbqt,7
+13,moxifloxacin,-8.999,-9.063,C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\3\redock_top15_results\moxifloxacin_refined.pdbqt,8
+8,flavoxate,-9.076,-9.053,C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\3\redock_top15_results\flavoxate_refined.pdbqt,9
+10,cefradine,-9.045,-9.043,C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\3\redock_top15_results\cefradine_refined.pdbqt,10
+11,loracarbef,-9.024,-9.035,C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\3\redock_top15_results\loracarbef_refined.pdbqt,11
+12,lorpiprazole,-9.012,-9.03,C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\3\redock_top15_results\lorpiprazole_refined.pdbqt,12
+9,cefaclor,-9.054,-9.028,C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\3\redock_top15_results\cefaclor_refined.pdbqt,13
+14,radotinib,-8.968,-8.977,C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\3\redock_top15_results\radotinib_refined.pdbqt,14
+15,canagliflozin,-8.966,-8.971,C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\3\redock_top15_results\canagliflozin_refined.pdbqt,15

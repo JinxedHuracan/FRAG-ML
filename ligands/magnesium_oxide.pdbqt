@@ -1,0 +1,8 @@
+REMARK SMILES [O]=[Mg]
+REMARK SMILES IDX 1 1 2 2
+REMARK H PARENT
+ROOT
+ATOM      1  O   UNL     1       0.890   0.000   0.000  1.00  0.00    -0.412 OA
+ATOM      2  Mg  UNL     1      -0.890   0.000   0.000  1.00  0.00     0.412 Mg
+ENDROOT
+TORSDOF 0

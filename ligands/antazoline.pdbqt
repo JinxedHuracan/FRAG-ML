@@ -1,0 +1,38 @@
+REMARK SMILES c1ccc(CN(CC2=NCCN2)c2ccccc2)cc1
+REMARK SMILES IDX 7 1 6 2 5 3 4 4 3 5 19 6 2 7 20 8 1 9 13 10 14 11 18 12
+REMARK SMILES IDX 15 13 17 14 16 15 8 16 9 17 12 18 10 19 11 20
+REMARK H PARENT 12 21
+ROOT
+ATOM      1  C   UNL     1      -0.005  -1.223  -1.749  1.00  0.00     0.191 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   UNL     1       0.070  -0.166  -0.702  1.00  0.00    -0.360 N 
+BRANCH   2   3
+ATOM      3  C   UNL     1       1.411  -0.070  -0.083  1.00  0.00     0.152 C 
+BRANCH   3   4
+ATOM      4  C   UNL     1       1.438   0.744   1.197  1.00  0.00    -0.029 A 
+ATOM      5  C   UNL     1       0.433   0.617   2.168  1.00  0.00     0.005 A 
+ATOM      6  C   UNL     1       2.519   1.600   1.460  1.00  0.00     0.005 A 
+ATOM      7  C   UNL     1       0.494   1.344   3.358  1.00  0.00     0.000 A 
+ATOM      8  C   UNL     1       2.579   2.326   2.650  1.00  0.00     0.000 A 
+ATOM      9  C   UNL     1       1.566   2.199   3.598  1.00  0.00     0.000 A 
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+BRANCH   2  10
+ATOM     10  C   UNL     1      -0.552   1.021  -1.140  1.00  0.00     0.037 A 
+ATOM     11  C   UNL     1      -1.957   1.054  -1.206  1.00  0.00     0.026 A 
+ATOM     12  C   UNL     1       0.140   2.179  -1.516  1.00  0.00     0.026 A 
+ATOM     13  C   UNL     1      -2.643   2.195  -1.631  1.00  0.00     0.002 A 
+ATOM     14  C   UNL     1      -0.543   3.324  -1.944  1.00  0.00     0.002 A 
+ATOM     15  C   UNL     1      -1.934   3.332  -2.001  1.00  0.00     0.000 A 
+ENDBRANCH   2  10
+ENDBRANCH   1   2
+BRANCH   1  16
+ATOM     16  C   UNL     1      -0.216  -2.594  -1.113  1.00  0.00     0.116 C 
+ATOM     17  N   UNL     1      -0.187  -3.696  -1.823  1.00  0.00    -0.269 NA
+ATOM     18  N   UNL     1      -0.512  -2.738   0.224  1.00  0.00    -0.370 N 
+ATOM     19  C   UNL     1      -0.503  -4.766  -0.828  1.00  0.00     0.165 C 
+ATOM     20  C   UNL     1      -1.066  -4.053   0.407  1.00  0.00     0.138 C 
+ATOM     21  H   UNL     1      -0.960  -1.930   0.647  1.00  0.00     0.161 HD
+ENDBRANCH   1  16
+TORSDOF 5

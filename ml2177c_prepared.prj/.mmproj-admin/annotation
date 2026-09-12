@@ -1,0 +1,77 @@
+--- This project was created on Sat Aug 15 23:21:25 2026
+
+-----
+Sat Aug 15 23:21:26 2026
+Imported file:
+C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\3\AF-Q9CBD1-F1-model_v6.pdb
+
+-----
+Sat Aug 15 23:24:13 2026
+Imported file:
+C:\Users\kunsh_ghp5duq\OneDrive\Desktop\SIH\ml2177c_receptor.pdb
+
+-----
+Sat Aug 15 23:29:40 2026
+Starting SiteMap
+Job name: sitemap_22
+Job ID: KUNSH-BILLA-2467-0-6a80a90b
+
+-----
+Sat Aug 15 23:31:42 2026
+Starting Receptor Grid Generation
+Job name: glide-grid_43
+Job ID: KUNSH-BILLA-2467-0-6a80a985
+
+-----
+Sat Aug 15 23:33:12 2026
+Starting Receptor Grid Generation
+Job name: glide-grid_44
+Job ID: KUNSH-BILLA-2467-0-6a80a9df
+
+-----
+Sat Aug 15 23:34:12 2026
+Starting Receptor Grid Generation
+Job name: glide-grid_45
+Job ID: KUNSH-BILLA-2467-0-6a80aa1b
+
+-----
+Sat Aug 15 23:34:29 2026
+Starting Receptor Grid Generation
+Job name: glide-grid_46
+Job ID: KUNSH-BILLA-2467-0-6a80aa2c
+
+-----
+Sat Aug 15 23:37:52 2026
+Starting Receptor Grid Generation
+Job name: glide-grid_47
+Job ID: KUNSH-BILLA-2467-0-6a80aaf6
+
+-----
+Sat Aug 15 23:39:17 2026
+Starting Receptor Grid Generation
+Job name: glide-grid_48
+Job ID: KUNSH-BILLA-2467-0-6a80ab4b
+
+-----
+Sat Aug 15 23:43:10 2026
+Starting Receptor Grid Generation
+Job name: glide-grid_49
+Job ID: KUNSH-BILLA-2467-0-6a80ac35
+
+-----
+Sat Aug 15 23:44:58 2026
+Starting LigPrep
+Job name: ligprep_45
+Job ID: KUNSH-BILLA-2467-0-6a80aca1
+
+-----
+Sat Aug 15 23:45:39 2026
+Starting LigPrep
+Job name: ligprep_46
+Job ID: KUNSH-BILLA-2467-0-6a80acc9
+
+-----
+Sat Aug 15 23:47:26 2026
+Starting Ligand Docking
+Job name: glide-dock_SP_55
+Job ID: KUNSH-BILLA-2467-0-6a80ad35

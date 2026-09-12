@@ -1,0 +1,9 @@
+REMARK SMILES O=[Si]=O
+REMARK SMILES IDX 1 1 2 2 3 3
+REMARK H PARENT
+ROOT
+ATOM      1  O   UNL     1      -1.507   0.116   0.000  1.00  0.00    -0.274 OA
+ATOM      2  Si  UNL     1       0.007  -0.375   0.000  1.00  0.00     0.549 Si
+ATOM      3  O   UNL     1       1.500  -0.878   0.000  1.00  0.00    -0.274 OA
+ENDROOT
+TORSDOF 0
