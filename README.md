@@ -17,8 +17,10 @@ The project combines **high-throughput molecular docking, Fragment-Based Drug Di
 Developed as a computational drug-repurposing project focused on *Mycobacterium leprae* ML2177c.
 
 Contributions by 
-Shreyas Nigam (shreyasnigam01)
-Kunsh Billa (JinxedHuracan) 
+Shreyas Nigam (shreyasnigam01).
+Kunsh Billa (JinxedHuracan) .
+
+
 ---
 
 ## Why FRAG-ML?
