@@ -1,0 +1,185 @@
+Drug,Residue,Type,Distance_A,Details
+bagrosin,MET110,Hydrophobic,3.9,Dist: 3.9 A
+bagrosin,GLU254,Hydrophobic,3.52,Dist: 3.52 A
+bagrosin,LEU280,Hydrophobic,3.93,Dist: 3.93 A
+bagrosin,LEU279,Hydrophobic,3.4,Dist: 3.4 A
+bagrosin,VAL288,Hydrophobic,3.37,Dist: 3.37 A
+bagrosin,GLY62,H-Bond (Prot Donor),3.26,Nam -> O2 (Angle: 101.1)
+bagrosin,ARG144,H-Bond (Prot Donor),2.97,Ng+ -> O2 (Angle: 158.2)
+bagrosin,ARG66,H-Bond (Prot Donor),3.79,Ng+ -> O2 (Angle: 142.1)
+bagrosin,ARG66,H-Bond (Prot Donor),3.56,Ng+ -> O2 (Angle: 151.4)
+bagrosin,ARG66,H-Bond (Lig Donor),3.19,Nam -> Ng+ (Angle: 160.7)
+bagrosin,GLU256,H-Bond (Lig Donor),3.15,Nam -> O.co2 (Angle: 174.9)
+bagrosin,PHE219,Pi-Stacking (T),4.9,Angle: 82.1 deg
+bagrosin,PHE219,Pi-Stacking (T),4.95,Angle: 82.2 deg
+canagliflozin,PHE219,Hydrophobic,3.73,Dist: 3.73 A
+canagliflozin,LEU279,Hydrophobic,3.83,Dist: 3.83 A
+canagliflozin,LEU279,Hydrophobic,3.85,Dist: 3.85 A
+canagliflozin,LEU295,Hydrophobic,3.84,Dist: 3.84 A
+canagliflozin,THR147,H-Bond (Prot Donor),3.07,O3 -> O3 (Angle: 123.7)
+canagliflozin,GLY62,H-Bond (Prot Donor),4.06,Nam -> O3 (Angle: 116.9)
+canagliflozin,ARG66,H-Bond (Prot Donor),2.99,Ng+ -> O3 (Angle: 122.1)
+canagliflozin,ARG66,H-Bond (Prot Donor),3.25,Ng+ -> O3 (Angle: 118.9)
+canagliflozin,ARG144,H-Bond (Prot Donor),3.07,Ng+ -> O3 (Angle: 144.3)
+canagliflozin,MET255,H-Bond (Prot Donor),3.13,Nam -> O3 (Angle: 115.2)
+canagliflozin,GLU256,H-Bond (Lig Donor),2.67,O3 -> O.co2 (Angle: 162.2)
+canagliflozin,PHE219,Pi-Stacking (T),5.09,Angle: 89.1 deg
+capmatinib,THR63,Hydrophobic,3.58,Dist: 3.58 A
+capmatinib,LEU279,Hydrophobic,3.65,Dist: 3.65 A
+capmatinib,LEU279,Hydrophobic,3.96,Dist: 3.96 A
+capmatinib,LEU295,Hydrophobic,3.77,Dist: 3.77 A
+capmatinib,THR147,Hydrophobic,3.6,Dist: 3.6 A
+capmatinib,THR147,H-Bond (Prot Donor),3.01,O3 -> Nar (Angle: 124.5)
+capmatinib,GLY62,H-Bond (Prot Donor),3.89,Nam -> Nar (Angle: 105.6)
+capmatinib,ARG66,H-Bond (Prot Donor),3.8,Ng+ -> Nar (Angle: 132.0)
+capmatinib,ARG144,H-Bond (Prot Donor),3.33,Ng+ -> Nar (Angle: 124.9)
+capmatinib,ARG225,H-Bond (Prot Donor),3.13,Ng+ -> O2 (Angle: 102.6)
+capmatinib,ILE253,H-Bond (Lig Donor),2.92,Nam -> O2 (Angle: 153.1)
+capmatinib,PHE219,Pi-Stacking (T),5.03,Angle: 66.6 deg
+cefaclor,LEU279,Hydrophobic,3.59,Dist: 3.59 A
+cefaclor,LEU280,Hydrophobic,3.37,Dist: 3.37 A
+cefaclor,VAL288,Hydrophobic,3.19,Dist: 3.19 A
+cefaclor,ARG144,H-Bond (Prot Donor),2.7,Ng+ -> O2 (Angle: 122.4)
+cefaclor,MET255,H-Bond (Prot Donor),3.65,Nam -> O2 (Angle: 131.3)
+cefaclor,GLN223,H-Bond (Prot Donor),3.09,Nam -> O2 (Angle: 157.5)
+cefaclor,GLY149,H-Bond (Prot Donor),3.1,Nam -> N3 (Angle: 128.8)
+cefaclor,GLY62,H-Bond (Prot Donor),3.97,Nam -> O.co2 (Angle: 131.9)
+cefaclor,THR147,H-Bond (Prot Donor),3.61,Nam -> O.co2 (Angle: 159.6)
+cefaclor,GLY109,H-Bond (Lig Donor),4.06,O.co2 -> O2 (Angle: 124.3)
+cefaclor,THR147,H-Bond (Lig Donor),3.99,Nam -> O2 (Angle: 100.7)
+cefaclor,GLN223,H-Bond (Lig Donor),3.12,N3 -> O2 (Angle: 143.2)
+cefaclor,PHE219,Pi-Stacking (T),4.8,Angle: 73.9 deg
+cefaclor,ARG66,Salt Bridge,5.3,Dist: 5.3 A
+cefaclor,HIS108,Salt Bridge,4.67,Dist: 4.67 A
+cefaclor,ARG144,Salt Bridge,3.9,Dist: 3.9 A
+cefalexin,THR63,Hydrophobic,3.61,Dist: 3.61 A
+cefalexin,LEU279,Hydrophobic,3.62,Dist: 3.62 A
+cefalexin,LEU280,Hydrophobic,3.43,Dist: 3.43 A
+cefalexin,VAL288,Hydrophobic,3.25,Dist: 3.25 A
+cefalexin,ARG144,H-Bond (Prot Donor),2.89,Ng+ -> O2 (Angle: 114.9)
+cefalexin,MET255,H-Bond (Prot Donor),3.66,Nam -> O2 (Angle: 128.1)
+cefalexin,GLY62,H-Bond (Prot Donor),3.96,Nam -> O.co2 (Angle: 110.4)
+cefalexin,GLN223,H-Bond (Prot Donor),3.02,Nam -> O2 (Angle: 155.9)
+cefalexin,GLY149,H-Bond (Prot Donor),3.07,Nam -> N3 (Angle: 126.3)
+cefalexin,ILE253,H-Bond (Lig Donor),2.9,N3 -> O2 (Angle: 159.4)
+cefalexin,PHE219,Pi-Stacking (T),4.78,Angle: 74.5 deg
+cefalexin,HIS108,Salt Bridge,4.24,Dist: 4.24 A
+cefalexin,ARG144,Salt Bridge,4.71,Dist: 4.71 A
+cefradine,THR63,Hydrophobic,3.59,Dist: 3.59 A
+cefradine,LEU279,Hydrophobic,3.56,Dist: 3.56 A
+cefradine,LEU280,Hydrophobic,3.5,Dist: 3.5 A
+cefradine,VAL288,Hydrophobic,3.22,Dist: 3.22 A
+cefradine,ARG144,H-Bond (Prot Donor),2.9,Ng+ -> O2 (Angle: 114.5)
+cefradine,MET255,H-Bond (Prot Donor),3.7,Nam -> O2 (Angle: 128.0)
+cefradine,GLY62,H-Bond (Prot Donor),3.99,Nam -> O.co2 (Angle: 110.1)
+cefradine,GLN223,H-Bond (Prot Donor),3.05,Nam -> O2 (Angle: 155.8)
+cefradine,GLY149,H-Bond (Prot Donor),3.06,Nam -> N3 (Angle: 126.1)
+cefradine,ILE253,H-Bond (Lig Donor),2.9,N3 -> O2 (Angle: 126.2)
+cefradine,PHE219,Pi-Stacking (T),4.77,Angle: 76.6 deg
+cefradine,HIS108,Salt Bridge,4.25,Dist: 4.25 A
+cefradine,ARG144,Salt Bridge,4.76,Dist: 4.76 A
+flavoxate,THR147,Hydrophobic,3.83,Dist: 3.83 A
+flavoxate,PHE219,Hydrophobic,3.74,Dist: 3.74 A
+flavoxate,GLU254,Hydrophobic,3.88,Dist: 3.88 A
+flavoxate,LEU279,Hydrophobic,3.72,Dist: 3.72 A
+flavoxate,VAL288,Hydrophobic,3.46,Dist: 3.46 A
+flavoxate,LEU295,Hydrophobic,3.8,Dist: 3.8 A
+flavoxate,PHE219,Hydrophobic,3.59,Dist: 3.59 A
+flavoxate,LEU279,Hydrophobic,3.67,Dist: 3.67 A
+flavoxate,LEU280,Hydrophobic,3.71,Dist: 3.71 A
+flavoxate,ARG144,H-Bond (Prot Donor),3.35,Ng+ -> O2 (Angle: 125.8)
+flavoxate,MET255,H-Bond (Prot Donor),3.29,Nam -> O2 (Angle: 117.2)
+flavoxate,ARG66,H-Bond (Prot Donor),3.14,Ng+ -> N3 (Angle: 128.1)
+flavoxate,ARG66,Salt Bridge,5.22,Dist: 5.22 A
+loracarbef,LEU279,Hydrophobic,3.6,Dist: 3.6 A
+loracarbef,LEU280,Hydrophobic,3.43,Dist: 3.43 A
+loracarbef,VAL288,Hydrophobic,3.28,Dist: 3.28 A
+loracarbef,ARG144,H-Bond (Prot Donor),2.84,Ng+ -> O2 (Angle: 118.9)
+loracarbef,MET255,H-Bond (Prot Donor),3.73,Nam -> O2 (Angle: 129.0)
+loracarbef,GLN223,H-Bond (Prot Donor),3.02,Nam -> O2 (Angle: 155.3)
+loracarbef,GLY149,H-Bond (Prot Donor),3.1,Nam -> N3 (Angle: 127.0)
+loracarbef,GLY62,H-Bond (Prot Donor),3.96,Nam -> O.co2 (Angle: 117.9)
+loracarbef,ARG66,H-Bond (Prot Donor),3.92,Ng+ -> O.co2 (Angle: 146.2)
+loracarbef,THR147,H-Bond (Lig Donor),4.08,Nam -> O2 (Angle: 106.7)
+loracarbef,GLN223,H-Bond (Lig Donor),3.15,N3 -> O2 (Angle: 122.4)
+loracarbef,GLU256,H-Bond (Lig Donor),2.82,O.co2 -> O.co2 (Angle: 118.2)
+loracarbef,PHE219,Pi-Stacking (T),4.79,Angle: 75.5 deg
+loracarbef,HIS108,Salt Bridge,4.32,Dist: 4.32 A
+loracarbef,ARG144,Salt Bridge,4.45,Dist: 4.45 A
+lorpiprazole,THR63,Hydrophobic,3.51,Dist: 3.51 A
+lorpiprazole,PHE219,Hydrophobic,3.98,Dist: 3.98 A
+lorpiprazole,GLU254,Hydrophobic,3.78,Dist: 3.78 A
+lorpiprazole,LEU279,Hydrophobic,3.87,Dist: 3.87 A
+lorpiprazole,VAL288,Hydrophobic,3.39,Dist: 3.39 A
+lorpiprazole,ARG66,H-Bond (Prot Donor),3.95,Ng+ -> Nar (Angle: 170.4)
+lorpiprazole,ARG66,H-Bond (Prot Donor),3.49,Ng+ -> Nar (Angle: 136.4)
+lorpiprazole,THR147,H-Bond (Prot Donor),3.39,Nam -> Nar (Angle: 162.0)
+lorpiprazole,ARG144,H-Bond (Prot Donor),3.14,Ng+ -> Nar (Angle: 110.5)
+lorpiprazole,THR147,H-Bond (Prot Donor),3.17,O3 -> Nar (Angle: 106.6)
+lorpiprazole,PHE219,Pi-Stacking (T),4.8,Angle: 80.8 deg
+midostaurin,LEU279,Hydrophobic,3.74,Dist: 3.74 A
+midostaurin,THR63,Hydrophobic,3.04,Dist: 3.04 A
+midostaurin,MET110,Hydrophobic,3.6,Dist: 3.6 A
+midostaurin,THR147,Hydrophobic,3.54,Dist: 3.54 A
+midostaurin,LEU280,Hydrophobic,3.37,Dist: 3.37 A
+midostaurin,VAL288,Hydrophobic,3.61,Dist: 3.61 A
+midostaurin,LEU295,Hydrophobic,3.66,Dist: 3.66 A
+midostaurin,LEU295,Hydrophobic,3.59,Dist: 3.59 A
+midostaurin,GLU256,H-Bond (Lig Donor),3.38,Nam -> O.co2 (Angle: 127.0)
+midostaurin,PHE219,Pi-Stacking (T),5.03,Angle: 79.9 deg
+midostaurin,PHE219,Pi-Stacking (T),5.03,Angle: 79.4 deg
+moxifloxacin,PHE219,Hydrophobic,3.55,Dist: 3.55 A
+moxifloxacin,GLU254,Hydrophobic,3.71,Dist: 3.71 A
+moxifloxacin,LEU279,Hydrophobic,3.36,Dist: 3.36 A
+moxifloxacin,VAL288,Hydrophobic,3.63,Dist: 3.63 A
+moxifloxacin,THR63,Hydrophobic,3.52,Dist: 3.52 A
+moxifloxacin,GLN223,H-Bond (Prot Donor),3.07,Nam -> O2 (Angle: 130.6)
+moxifloxacin,THR147,H-Bond (Prot Donor),2.76,O3 -> O3 (Angle: 125.7)
+moxifloxacin,GLY149,H-Bond (Prot Donor),3.15,Nam -> O.co2 (Angle: 116.6)
+moxifloxacin,GLY109,H-Bond (Lig Donor),3.3,N3 -> O2 (Angle: 108.8)
+moxifloxacin,GLN223,H-Bond (Lig Donor),2.95,O.co2 -> O2 (Angle: 142.1)
+moxifloxacin,PHE219,Pi-Stacking (T),4.67,Angle: 74.0 deg
+moxifloxacin,ARG225,Salt Bridge,4.92,Dist: 4.92 A
+moxifloxacin,ARG282,Salt Bridge,4.94,Dist: 4.94 A
+nafamostat,GLU254,Hydrophobic,3.81,Dist: 3.81 A
+nafamostat,MET255,Hydrophobic,3.83,Dist: 3.83 A
+nafamostat,LEU279,Hydrophobic,3.8,Dist: 3.8 A
+nafamostat,LEU280,Hydrophobic,3.42,Dist: 3.42 A
+nafamostat,VAL288,Hydrophobic,3.26,Dist: 3.26 A
+nafamostat,GLY149,H-Bond (Prot Donor),3.25,Nam -> O2 (Angle: 118.0)
+nafamostat,ARG144,H-Bond (Prot Donor),3.13,Ng+ -> Ng+ (Angle: 141.9)
+nafamostat,ARG225,H-Bond (Prot Donor),3.71,Ng+ -> Ng+ (Angle: 109.5)
+nafamostat,GLN287,H-Bond (Prot Donor),3.06,Nam -> Ng+ (Angle: 118.6)
+nafamostat,GLN287,H-Bond (Lig Donor),3.04,Ng+ -> O2 (Angle: 157.3)
+nafamostat,GLN287,H-Bond (Lig Donor),3.47,Ng+ -> O2 (Angle: 130.6)
+nafamostat,PHE219,Pi-Stacking (T),4.78,Angle: 85.5 deg
+nafamostat,PHE219,Pi-Stacking (T),5.08,Angle: 86.1 deg
+nafamostat,GLU256,Salt Bridge,3.35,Dist: 3.35 A
+radotinib,THR63,Hydrophobic,3.58,Dist: 3.58 A
+radotinib,PHE220,Hydrophobic,3.49,Dist: 3.49 A
+radotinib,GLU254,Hydrophobic,3.66,Dist: 3.66 A
+radotinib,VAL288,Hydrophobic,3.58,Dist: 3.58 A
+radotinib,ARG144,H-Bond (Prot Donor),3.57,Ng+ -> Nar (Angle: 107.6)
+radotinib,THR147,H-Bond (Prot Donor),3.53,O3 -> Nar (Angle: 161.2)
+radotinib,GLY149,H-Bond (Prot Donor),3.31,Nam -> Nar (Angle: 108.9)
+radotinib,THR147,H-Bond (Lig Donor),3.14,Npl -> O3 (Angle: 111.8)
+radotinib,PHE219,Pi-Stacking (T),4.84,Angle: 72.7 deg
+selinexor,VAL288,Hydrophobic,3.69,Dist: 3.69 A
+selinexor,LEU279,Hydrophobic,3.79,Dist: 3.79 A
+selinexor,ARG66,H-Bond (Prot Donor),3.24,Ng+ -> O2 (Angle: 171.9)
+selinexor,ARG66,H-Bond (Prot Donor),4.07,Ng+ -> O2 (Angle: 134.0)
+selinexor,ARG144,H-Bond (Prot Donor),3.33,Ng+ -> Nar (Angle: 123.9)
+selinexor,THR147,H-Bond (Prot Donor),3.19,Nam -> O2 (Angle: 178.6)
+selinexor,MET255,H-Bond (Prot Donor),3.82,Nam -> Nar (Angle: 120.7)
+selinexor,GLU256,H-Bond (Lig Donor),3.28,Npl -> O.co2 (Angle: 108.7)
+selinexor,PHE219,Pi-Stacking (T),5.04,Angle: 75.4 deg
+tucatinib,VAL288,Hydrophobic,3.72,Dist: 3.72 A
+tucatinib,VAL288,Hydrophobic,3.88,Dist: 3.88 A
+tucatinib,LEU295,Hydrophobic,3.93,Dist: 3.93 A
+tucatinib,LEU279,Hydrophobic,3.5,Dist: 3.5 A
+tucatinib,LEU279,Hydrophobic,3.85,Dist: 3.85 A
+tucatinib,ARG66,H-Bond (Prot Donor),3.45,Ng+ -> Nar (Angle: 156.9)
+tucatinib,ARG144,H-Bond (Prot Donor),3.9,Ng+ -> N2 (Angle: 116.7)
+tucatinib,THR147,H-Bond (Prot Donor),3.34,O3 -> N2 (Angle: 120.2)
+tucatinib,PHE219,Pi-Stacking (T),4.94,Angle: 76.0 deg
+tucatinib,PHE219,Pi-Stacking (T),5.02,Angle: 76.5 deg

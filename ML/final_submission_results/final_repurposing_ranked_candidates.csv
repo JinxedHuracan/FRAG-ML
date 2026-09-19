@@ -1,0 +1,16 @@
+Drug,Docking_Score,MW,LogP,HBD,HBA,RotB,TPSA (A2),QED,Ro5_Violations,Lipinski_Pass,Class,Total_Interactions,HBond_Count,Repurposing_Score,Repurposing_Tier,Final_Rank
+Midostaurin,-10.14,385.47,6.97,2,0,2,36.51,0.322,1,Yes,Multitargeted Kinase Inhibitor,11,1,0.832,Tier 2: High-Affinity Multicyclic Scaffold,1
+Tucatinib,-9.741,374.38,3.63,2,5,4,96.45,0.569,0,Yes,HER2 Kinase Inhibitor,10,3,0.771,Tier 1: High-Affinity Ro5-Compliant,2
+Capmatinib,-9.668,396.43,4.52,1,5,4,80.24,0.483,0,Yes,MET Kinase Inhibitor,12,6,0.768,Tier 1: High-Affinity Ro5-Compliant,3
+Bagrosin,-9.544,151.16,1.35,2,2,1,49.33,0.595,0,Yes,Small Molecule Therapeutic,13,6,0.733,Tier 1: High-Affinity Ro5-Compliant,4
+Nafamostat,-9.203,347.38,2.25,4,4,4,140.57,0.248,0,Yes,Serine Protease Inhibitor,14,6,0.614,Tier 1: High-Affinity Ro5-Compliant,5
+Cefaclor,-9.028,383.81,0.33,4,6,4,132.96,0.55,0,Yes,2nd Gen Cephalosporin Antibiotic,16,9,0.572,Tier 1: High-Feasibility Antibacterial,6
+Cefalexin,-9.122,347.4,0.44,3,5,4,112.73,0.682,0,Yes,1st Gen Cephalosporin Antibiotic,13,6,0.571,Tier 1: High-Feasibility Antibacterial,7
+Loracarbef,-9.035,335.75,-0.03,3,4,4,112.73,0.669,0,Yes,Carbacephem Antibiotic,15,9,0.562,Tier 1: High-Feasibility Antibacterial,8
+Moxifloxacin,-9.063,401.44,2.37,2,5,4,83.8,0.819,0,Yes,4th Gen Fluoroquinolone Antibacterial,13,5,0.548,Tier 1: High-Feasibility Antibacterial,9
+Flavoxate,-9.053,344.37,1.11,0,6,4,80.06,0.611,0,Yes,Smooth Muscle Antispasmodic,13,3,0.544,Tier 3: Secondary Candidate,10
+Cefradine,-9.043,349.41,0.35,3,5,4,112.73,0.499,0,Yes,1st Gen Cephalosporin Antibiotic,13,6,0.54,Tier 1: High-Feasibility Antibacterial,11
+Lorpiprazole,-9.03,386.89,2.15,0,5,6,58.67,0.607,0,Yes,Phenylpiperazine Anxiolytic,11,5,0.51,Tier 3: Secondary Candidate,12
+Selinexor,-9.079,391.31,1.46,2,6,3,114.69,0.654,0,Yes,XPO1 Nuclear Export Inhibitor,9,6,0.504,Tier 3: Secondary Candidate,13
+Canagliflozin,-8.971,470.56,3.39,4,6,6,90.15,0.442,0,Yes,SGLT2 Inhibitor,12,7,0.5,Tier 3: Secondary Candidate,14
+Radotinib,-8.977,493.62,4.59,2,7,7,86.28,0.389,0,Yes,BCR-ABL Kinase Inhibitor,9,4,0.465,Tier 3: Secondary Candidate,15

@@ -1,0 +1,39 @@
+REMARK SMILES CCC(C)NCC(O)c1ccc2c(c1)CCCC2
+REMARK SMILES IDX 5 1 3 3 4 4 2 5 1 6 6 7 7 8 8 9 9 11 10 12 14 13 11 14 13 15
+REMARK SMILES IDX 12 16 15 17 18 18 16 19 17 20
+REMARK H PARENT 5 2 8 10
+ROOT
+ATOM      1  N   UNL     1       3.224   0.875   0.954  1.00  0.00    -0.311 NA
+ATOM      2  H   UNL     1       3.456   1.233   0.024  1.00  0.00     0.123 HD
+ENDROOT
+BRANCH   1   3
+ATOM      3  C   UNL     1       3.923  -0.376   1.248  1.00  0.00     0.050 C 
+ATOM      4  C   UNL     1       5.412  -0.046   1.401  1.00  0.00     0.024 C 
+BRANCH   3   5
+ATOM      5  C   UNL     1       3.703  -1.511   0.230  1.00  0.00     0.015 C 
+ATOM      6  C   UNL     1       4.150  -1.211  -1.196  1.00  0.00     0.005 C 
+ENDBRANCH   3   5
+ENDBRANCH   1   3
+BRANCH   1   7
+ATOM      7  C   UNL     1       1.759   0.816   1.076  1.00  0.00     0.117 C 
+BRANCH   7   8
+ATOM      8  C   UNL     1       1.018   0.674  -0.278  1.00  0.00     0.158 C 
+BRANCH   8   9
+ATOM      9  O   UNL     1       1.488   1.672  -1.195  1.00  0.00    -0.387 OA
+ATOM     10  H   UNL     1       0.763   1.844  -1.822  1.00  0.00     0.211 HD
+ENDBRANCH   8   9
+BRANCH   8  11
+ATOM     11  C   UNL     1      -0.486   0.773  -0.127  1.00  0.00    -0.018 A 
+ATOM     12  C   UNL     1      -1.101   1.990   0.191  1.00  0.00     0.007 A 
+ATOM     13  C   UNL     1      -1.291  -0.363  -0.299  1.00  0.00     0.010 A 
+ATOM     14  C   UNL     1      -2.488   2.071   0.326  1.00  0.00     0.004 A 
+ATOM     15  C   UNL     1      -2.686  -0.295  -0.155  1.00  0.00    -0.044 A 
+ATOM     16  C   UNL     1      -3.291   0.939   0.141  1.00  0.00    -0.045 A 
+ATOM     17  C   UNL     1      -3.508  -1.541  -0.384  1.00  0.00     0.036 C 
+ATOM     18  C   UNL     1      -4.784   1.061   0.329  1.00  0.00     0.036 C 
+ATOM     19  C   UNL     1      -4.931  -1.434   0.161  1.00  0.00     0.005 C 
+ATOM     20  C   UNL     1      -5.564  -0.114  -0.258  1.00  0.00     0.005 C 
+ENDBRANCH   8  11
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 6

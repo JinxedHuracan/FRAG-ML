@@ -1,0 +1,16 @@
+Drug,Docking_Score,HAC,Core_Fragment,Target_Subpocket,Ligand_Efficiency (LE),BEI,Fit_Quality (FQ)
+Midostaurin,-10.14,44,Staurosporine Aglycone Core,Deep Hydrophobic / Catalytic Cleft,0.23,26.31,0.931
+Tucatinib,-9.741,35,Quinazoline / Imidazopyridine,Aromatic Pocket / H-Bond Latch,0.278,26.02,0.952
+Capmatinib,-9.668,30,"Imidazo[1,2-b][1,2,4]triazine",Central Catalytic Cavity,0.322,24.39,0.98
+Bagrosin,-9.544,12,Phenol / Acetamide Scaffold,Polar Hotspot Anchor,0.795,63.14,1.114
+Nafamostat,-9.203,25,Guanidinobenzoate Ester,Electrostatic / Salt-bridge Groove,0.368,26.49,0.968
+Cefaclor,-9.028,25,2-Chloro-Cephem Core,Uridine/Ribose Catalytic Pocket,0.361,23.52,0.95
+Cefalexin,-9.122,24,3-Methyl-Cephem Core,Uridine/Ribose Catalytic Pocket,0.38,26.26,0.967
+Loracarbef,-9.035,24,Carbacephem Ring,Uridine/Ribose Catalytic Pocket,0.376,26.91,0.957
+Moxifloxacin,-9.063,29,Fluoroquinolone / Diazabicyclo,Enzyme Channel / Polar Bridge,0.313,22.58,0.927
+Flavoxate,-9.053,29,Flavone Chromone Ring,Hydrophobic Sub-pocket,0.312,26.29,0.924
+Cefradine,-9.043,24,Dihydrophenyl-Cephem,Uridine/Ribose Catalytic Pocket,0.377,25.88,0.96
+Lorpiprazole,-9.03,29,Chlorophenyl-Piperazine,Extended Hydrophobic Channel,0.311,23.34,0.921
+Selinexor,-9.079,31,Triazole-Acryloyl Core,Allosteric Access Channel,0.293,23.2,0.915
+Canagliflozin,-8.971,31,Thiophene / Glucoside Core,Substrate-Binding Cleft,0.289,19.06,0.902
+Radotinib,-8.977,39,Phenylaminopyrimidine,Deep Aromatic Cleft,0.23,18.19,0.854

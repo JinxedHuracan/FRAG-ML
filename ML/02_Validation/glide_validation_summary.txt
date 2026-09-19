@@ -1,0 +1,6 @@
+Reference ligand: 2,2-anhydrouridine (ANU), docked pose anu_D_only-6
+Glide docking score: -6.19364630056647
+Glide gscore: -6.19504630056647
+Glide emodel: -47.3229548334575
+Glide energy: -34.6079387664795
+Grid file: glide-grid_34
